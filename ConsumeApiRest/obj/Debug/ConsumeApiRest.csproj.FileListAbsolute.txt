@@ -1,0 +1,9 @@
+c:\users\shim\documents\visual studio 2015\Projects\ConsumeApiRest\ConsumeApiRest\bin\Debug\ConsumeApiRest.exe.config
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\bin\Debug\ConsumeApiRest.exe.config
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\bin\Debug\ConsumeApiRest.exe
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\bin\Debug\ConsumeApiRest.pdb
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.csprojResolveAssemblyReference.cache
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.Properties.Resources.resources
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.csproj.GenerateResource.Cache
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.exe
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.pdb
