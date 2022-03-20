@@ -7,3 +7,6 @@ D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.Pro
 D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.csproj.GenerateResource.Cache
 D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.exe
 D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.pdb
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.Form1.resources
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\bin\Debug\Newtonsoft.Json.dll
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\bin\Debug\Newtonsoft.Json.xml
