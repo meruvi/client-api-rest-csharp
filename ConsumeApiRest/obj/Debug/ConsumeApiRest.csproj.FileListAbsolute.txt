@@ -10,3 +10,5 @@ D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.pdb
 D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\obj\Debug\ConsumeApiRest.Form1.resources
 D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\bin\Debug\Newtonsoft.Json.dll
 D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\bin\Debug\Newtonsoft.Json.xml
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\bin\Debug\RestSharp.dll
+D:\VISUAL STUDIO 2015\ConsumeApiRest\ConsumeApiRest\bin\Debug\RestSharp.xml
